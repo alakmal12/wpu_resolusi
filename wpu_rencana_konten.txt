@@ -5,7 +5,7 @@ RENCANA KONTEN WPU
  % framework jaavscript
   -vue
   - react
- % embuat struktur data dasar
+ % membuat struktur data dasar
 -- PHP framework
   - laravel
 -- interview
