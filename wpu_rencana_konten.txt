@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 --javascript
+ % buat ES6
+ % framework jaavscript
 -- PHP framework
 -- interview
 -- vlogs
