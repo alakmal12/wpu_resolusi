@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 --javascript
  % buat ES6
  % framework jaavscript
+  -vue
+  - react
  % embuat struktur data dasar
 -- PHP framework
+  - laravel
 -- interview
 -- vlogs
+-- python
